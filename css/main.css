@@ -1,0 +1,6 @@
+.bg image {
+    background-image: url("../IMG/pexels-dante-muñoz-15941827.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
